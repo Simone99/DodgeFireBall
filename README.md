@@ -23,7 +23,7 @@ The screen will fill up with fireballs bouncing around, moving faster and faster
 
 ## Play the Game
 
-👉 [Play DodgeFireBall on itch.io](https://your-itch-io-game-link.com)
+👉 [Play DodgeFireBall on itch.io](https://simomaster1.itch.io/dodgefireball)
 
 ---
 
